@@ -47,16 +47,11 @@
 }
 
 .slider-items {
-  height: 100%;
   width: 100%;
   touch-action: pan-y;
   -webkit-user-select: none;
   user-select: none;
   position: relative;
-  /* min-height: 1px; */
-  /* float: left; */
-  /* -webkit-backface-visibility: hidden; */
-  /* -webkit-tap-highlight-color: transparent; */
 }
 .slider-items img {
   width: 100%;
